@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-pypdf
-requests
-google-generativeai
-sentence-transformers
-chromadb
